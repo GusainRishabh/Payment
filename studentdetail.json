@@ -1,0 +1,15 @@
+[
+  {
+    "Student_Name": "Rishabh",
+    "Last_Name": "Gusain",
+    "Address": "Kotdwara",
+    "Phone_Number": "05698845858",
+    "Father_Name": "Raj",
+    "Student_Id": "12",
+    "Email_Id": "rishabhgusain51@gmail.com",
+    "Password": "12",
+    "plan": "1999",
+    "status": "pending",
+    "file_path": null
+  }
+]

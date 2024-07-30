@@ -1,0 +1,112 @@
+[
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "102",
+    "Section": "A",
+    "Add_Question": "Which fruit is yellow?",
+    "Option_1": "Apple",
+    "Option_2": "Banana",
+    "Option_3": "Cherry",
+    "Option_4": "Grapes",
+    "Right_Answer": "Banana"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "102",
+    "Section": "A",
+    "Add_Question": "Which fruit is yellow?",
+    "Option_1": "Apple",
+    "Option_2": "Banana",
+    "Option_3": "Cherry",
+    "Option_4": "Grapes",
+    "Right_Answer": "Banana"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "103",
+    "Section": "A",
+    "Add_Question": "What is 5 + 3?",
+    "Option_1": "6",
+    "Option_2": "7",
+    "Option_3": "8",
+    "Option_4": "9",
+    "Right_Answer": "8"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "104",
+    "Section": "A",
+    "Add_Question": "Which is a primary color?",
+    "Option_1": "Green",
+    "Option_2": "Purple",
+    "Option_3": "Blue",
+    "Option_4": "Orange",
+    "Right_Answer": "Blue"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "105",
+    "Section": "A",
+    "Add_Question": "What is the boiling point of water?",
+    "Option_1": "90°C",
+    "Option_2": "80°C",
+    "Option_3": "100°C",
+    "Option_4": "70°C",
+    "Right_Answer": "100°C"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "106",
+    "Section": "A",
+    "Add_Question": "Which planet is known as the Red Planet?",
+    "Option_1": "Earth",
+    "Option_2": "Mars",
+    "Option_3": "Jupiter",
+    "Option_4": "Saturn",
+    "Right_Answer": "Mars"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "107",
+    "Section": "A",
+    "Add_Question": "What is the largest mammal?",
+    "Option_1": "Elephant",
+    "Option_2": "Blue Whale",
+    "Option_3": "Giraffe",
+    "Option_4": "Hippopotamus",
+    "Right_Answer": "Blue Whale"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "108",
+    "Section": "A",
+    "Add_Question": "What is the square root of 64?",
+    "Option_1": "6",
+    "Option_2": "7",
+    "Option_3": "8",
+    "Option_4": "9",
+    "Right_Answer": "8"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "109",
+    "Section": "A",
+    "Add_Question": "What is the capital of Japan?",
+    "Option_1": "Beijing",
+    "Option_2": "Seoul",
+    "Option_3": "Tokyo",
+    "Option_4": "Bangkok",
+    "Right_Answer": "Tokyo"
+  },
+  {
+    "Paper_Code": "Paper A",
+    "Serial_Number": "110",
+    "Section": "A",
+    "Add_Question": "What is the chemical symbol for gold?",
+    "Option_1": "Ag",
+    "Option_2": "Au",
+    "Option_3": "Pb",
+    "Option_4": "Pt",
+    "Right_Answer": "Au"
+  }
+]
